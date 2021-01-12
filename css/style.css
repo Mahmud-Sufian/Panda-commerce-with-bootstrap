@@ -1,0 +1,10 @@
+.panda-slider .carousel-item{
+    border-radius: 10px;
+      background-color:#FEEAE9;  
+}
+.panda-img img{
+    height: 100px;
+}
+.panda-card-border, .panda-card-footer{
+    border: 0;
+}
